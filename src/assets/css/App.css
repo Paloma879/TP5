@@ -1,0 +1,19 @@
+body{
+  background-color: #dac50c /*#2F3544;*/
+  
+}
+.App {
+  text-align: center;
+}
+.input-group{
+  width: 60%;
+}
+.img-fluid{
+  width: 73%;
+  
+}
+.card{
+  max-width: 60%;
+  
+}
+
